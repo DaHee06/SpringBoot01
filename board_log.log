@@ -1,0 +1,164 @@
+2023-08-14T20:15:12.092+09:00  INFO 2520 --- [restartedMain] com.example.SpringBoot01Application      : Starting SpringBoot01Application using Java 17.0.8 with PID 2520 (C:\development\project\SpringBoot\SpringBoot01\target\classes started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T20:15:12.093+09:00 DEBUG 2520 --- [restartedMain] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T20:15:12.094+09:00  INFO 2520 --- [restartedMain] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T20:15:12.128+09:00  INFO 2520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-14T20:15:12.128+09:00  INFO 2520 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-14T20:15:12.564+09:00  INFO 2520 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T20:15:12.595+09:00  INFO 2520 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T20:15:12.800+09:00  INFO 2520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T20:15:12.808+09:00  INFO 2520 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T20:15:12.808+09:00  INFO 2520 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T20:15:12.848+09:00  INFO 2520 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T20:15:12.848+09:00  INFO 2520 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 719 ms
+2023-08-14T20:15:13.089+09:00  INFO 2520 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-08-14T20:15:13.114+09:00  INFO 2520 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-14T20:15:13.122+09:00  INFO 2520 --- [restartedMain] com.example.SpringBoot01Application      : Started SpringBoot01Application in 1.333 seconds (process running for 1.847)
+2023-08-14T20:15:13.124+09:00 TRACE 2520 --- [restartedMain] com.example.LoggingRunner                : TRACE 로그 테스트
+2023-08-14T20:15:13.124+09:00 DEBUG 2520 --- [restartedMain] com.example.LoggingRunner                : DEBUG 로그 테스트
+2023-08-14T20:15:13.124+09:00  INFO 2520 --- [restartedMain] com.example.LoggingRunner                : INFO 로그 테스트
+2023-08-14T20:15:13.124+09:00  WARN 2520 --- [restartedMain] com.example.LoggingRunner                : WARN 로그 테스트
+2023-08-14T20:15:13.124+09:00 ERROR 2520 --- [restartedMain] com.example.LoggingRunner                : ERROR 로그 테스트
+2023-08-14T20:15:36.571+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : Starting SpringBoot01Application using Java 17.0.8 with PID 11860 (C:\development\project\SpringBoot\SpringBoot01\target\classes started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T20:15:36.573+09:00 DEBUG 11860 --- [restartedMain] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T20:15:36.573+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T20:15:36.605+09:00  INFO 11860 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-14T20:15:36.606+09:00  INFO 11860 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-14T20:15:37.067+09:00  INFO 11860 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T20:15:37.097+09:00  INFO 11860 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T20:15:37.306+09:00  INFO 11860 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T20:15:37.313+09:00  INFO 11860 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T20:15:37.313+09:00  INFO 11860 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T20:15:37.355+09:00  INFO 11860 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T20:15:37.355+09:00  INFO 11860 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 749 ms
+2023-08-14T20:15:37.591+09:00  INFO 11860 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-08-14T20:15:37.643+09:00  INFO 11860 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-14T20:15:37.652+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : Started SpringBoot01Application in 1.38 seconds (process running for 1.888)
+2023-08-14T20:15:37.654+09:00 TRACE 11860 --- [restartedMain] com.example.LoggingRunner                : TRACE 로그 테스트
+2023-08-14T20:15:37.654+09:00 DEBUG 11860 --- [restartedMain] com.example.LoggingRunner                : DEBUG 로그 테스트
+2023-08-14T20:15:37.655+09:00  INFO 11860 --- [restartedMain] com.example.LoggingRunner                : INFO 로그 테스트
+2023-08-14T20:15:37.655+09:00  WARN 11860 --- [restartedMain] com.example.LoggingRunner                : WARN 로그 테스트
+2023-08-14T20:15:37.655+09:00 ERROR 11860 --- [restartedMain] com.example.LoggingRunner                : ERROR 로그 테스트
+2023-08-14T22:50:44.860+09:00  INFO 11860 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-08-14T22:50:44.869+09:00  INFO 11860 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-08-14T22:50:44.939+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : Starting SpringBoot01Application using Java 17.0.8 with PID 11860 (C:\development\project\SpringBoot\SpringBoot01\target\classes started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T22:50:44.939+09:00 DEBUG 11860 --- [restartedMain] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T22:50:44.939+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T22:50:45.053+09:00  INFO 11860 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T22:50:45.055+09:00  INFO 11860 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T22:50:45.089+09:00  INFO 11860 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T22:50:45.090+09:00  INFO 11860 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T22:50:45.090+09:00  INFO 11860 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T22:50:45.100+09:00  INFO 11860 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T22:50:45.101+09:00  INFO 11860 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 159 ms
+2023-08-14T22:50:45.168+09:00  INFO 11860 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-08-14T22:50:45.179+09:00  INFO 11860 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-14T22:50:45.183+09:00  INFO 11860 --- [restartedMain] com.example.SpringBoot01Application      : Started SpringBoot01Application in 0.267 seconds (process running for 9309.42)
+2023-08-14T22:50:45.184+09:00 TRACE 11860 --- [restartedMain] com.example.LoggingRunner                : TRACE 로그 테스트
+2023-08-14T22:50:45.185+09:00 DEBUG 11860 --- [restartedMain] com.example.LoggingRunner                : DEBUG 로그 테스트
+2023-08-14T22:50:45.185+09:00  INFO 11860 --- [restartedMain] com.example.LoggingRunner                : INFO 로그 테스트
+2023-08-14T22:50:45.185+09:00  WARN 11860 --- [restartedMain] com.example.LoggingRunner                : WARN 로그 테스트
+2023-08-14T22:50:45.185+09:00 ERROR 11860 --- [restartedMain] com.example.LoggingRunner                : ERROR 로그 테스트
+2023-08-14T22:50:45.187+09:00  INFO 11860 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-08-14T22:50:48.279+09:00  INFO 7840 --- [main] c.e.s.SpringBoot01ApplicationTests       : Starting SpringBoot01ApplicationTests using Java 17.0.8 with PID 7840 (started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T22:50:48.280+09:00 DEBUG 7840 --- [main] c.e.s.SpringBoot01ApplicationTests       : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T22:50:48.281+09:00  INFO 7840 --- [main] c.e.s.SpringBoot01ApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T22:50:48.825+09:00  INFO 7840 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T22:50:48.860+09:00  INFO 7840 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T22:50:49.247+09:00  INFO 7840 --- [main] c.e.s.SpringBoot01ApplicationTests       : Started SpringBoot01ApplicationTests in 1.222 seconds (process running for 2.393)
+2023-08-14T22:50:49.248+09:00 TRACE 7840 --- [main] com.example.LoggingRunner                : TRACE �α� �׽�Ʈ
+2023-08-14T22:50:49.249+09:00 DEBUG 7840 --- [main] com.example.LoggingRunner                : DEBUG �α� �׽�Ʈ
+2023-08-14T22:50:49.249+09:00  INFO 7840 --- [main] com.example.LoggingRunner                : INFO �α� �׽�Ʈ
+2023-08-14T22:50:49.249+09:00  WARN 7840 --- [main] com.example.LoggingRunner                : WARN �α� �׽�Ʈ
+2023-08-14T22:50:49.250+09:00 ERROR 7840 --- [main] com.example.LoggingRunner                : ERROR �α� �׽�Ʈ
+2023-08-14T22:51:28.899+09:00  INFO 18412 --- [main] com.example.SpringBoot01Application      : Starting SpringBoot01Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 18412 (C:\development\project\SpringBoot\SpringBoot01\target\SpringBoot01-0.0.1-SNAPSHOT.jar started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T22:51:28.901+09:00 DEBUG 18412 --- [main] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T22:51:28.901+09:00  INFO 18412 --- [main] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T22:51:29.510+09:00  INFO 18412 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T22:51:29.564+09:00  INFO 18412 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T22:51:29.863+09:00  INFO 18412 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T22:51:29.870+09:00  INFO 18412 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T22:51:29.871+09:00  INFO 18412 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T22:51:29.962+09:00  INFO 18412 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T22:51:29.963+09:00  INFO 18412 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1006 ms
+2023-08-14T22:51:30.301+09:00  WARN 18412 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-08-14T22:51:30.304+09:00  INFO 18412 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-08-14T22:51:30.315+09:00  INFO 18412 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-08-14T22:51:30.334+09:00 ERROR 18412 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-08-14T23:09:19.120+09:00  INFO 7536 --- [main] com.example.SpringBoot01Application      : Starting SpringBoot01Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 7536 (C:\development\project\SpringBoot\SpringBoot01\target\SpringBoot01-0.0.1-SNAPSHOT.jar started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T23:09:19.122+09:00 DEBUG 7536 --- [main] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T23:09:19.123+09:00  INFO 7536 --- [main] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T23:09:19.809+09:00  INFO 7536 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T23:09:19.851+09:00  INFO 7536 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T23:09:20.186+09:00  INFO 7536 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T23:09:20.201+09:00  INFO 7536 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T23:09:20.201+09:00  INFO 7536 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T23:09:20.348+09:00  INFO 7536 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T23:09:20.349+09:00  INFO 7536 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1154 ms
+2023-08-14T23:09:20.760+09:00  WARN 7536 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-08-14T23:09:20.763+09:00  INFO 7536 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-08-14T23:09:20.775+09:00  INFO 7536 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-08-14T23:09:20.790+09:00 ERROR 7536 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-08-14T23:09:56.461+09:00  INFO 2636 --- [main] com.example.SpringBoot01Application      : Starting SpringBoot01Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 2636 (C:\development\project\SpringBoot\SpringBoot01\target\SpringBoot01-0.0.1-SNAPSHOT.jar started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T23:09:56.462+09:00 DEBUG 2636 --- [main] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T23:09:56.463+09:00  INFO 2636 --- [main] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T23:09:57.195+09:00  INFO 2636 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T23:09:57.233+09:00  INFO 2636 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T23:09:57.534+09:00  INFO 2636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T23:09:57.543+09:00  INFO 2636 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T23:09:57.543+09:00  INFO 2636 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T23:09:57.630+09:00  INFO 2636 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T23:09:57.631+09:00  INFO 2636 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1105 ms
+2023-08-14T23:09:58.003+09:00  INFO 2636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-14T23:09:58.018+09:00  INFO 2636 --- [main] com.example.SpringBoot01Application      : Started SpringBoot01Application in 1.998 seconds (process running for 2.468)
+2023-08-14T23:09:58.020+09:00 TRACE 2636 --- [main] com.example.LoggingRunner                : TRACE �α� �׽�Ʈ
+2023-08-14T23:09:58.020+09:00 DEBUG 2636 --- [main] com.example.LoggingRunner                : DEBUG �α� �׽�Ʈ
+2023-08-14T23:09:58.020+09:00  INFO 2636 --- [main] com.example.LoggingRunner                : INFO �α� �׽�Ʈ
+2023-08-14T23:09:58.020+09:00  WARN 2636 --- [main] com.example.LoggingRunner                : WARN �α� �׽�Ʈ
+2023-08-14T23:09:58.021+09:00 ERROR 2636 --- [main] com.example.LoggingRunner                : ERROR �α� �׽�Ʈ
+2023-08-14T23:10:29.732+09:00  INFO 1812 --- [main] com.example.SpringBoot01Application      : Starting SpringBoot01Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 1812 (C:\development\project\SpringBoot\SpringBoot01\target\SpringBoot01-0.0.1-SNAPSHOT.jar started by KimCome in C:\development\project\SpringBoot\SpringBoot01)
+2023-08-14T23:10:29.733+09:00 DEBUG 1812 --- [main] com.example.SpringBoot01Application      : Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-14T23:10:29.734+09:00  INFO 1812 --- [main] com.example.SpringBoot01Application      : No active profile set, falling back to 1 default profile: "default"
+2023-08-14T23:10:30.342+09:00  INFO 1812 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-14T23:10:30.381+09:00  INFO 1812 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-08-14T23:10:30.679+09:00  INFO 1812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-08-14T23:10:30.687+09:00  INFO 1812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-08-14T23:10:30.687+09:00  INFO 1812 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-08-14T23:10:30.780+09:00  INFO 1812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-08-14T23:10:30.780+09:00  INFO 1812 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 988 ms
+2023-08-14T23:10:31.136+09:00  INFO 1812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-14T23:10:31.150+09:00  INFO 1812 --- [main] com.example.SpringBoot01Application      : Started SpringBoot01Application in 1.878 seconds (process running for 2.327)
+2023-08-14T23:10:31.151+09:00 TRACE 1812 --- [main] com.example.LoggingRunner                : TRACE �α� �׽�Ʈ
+2023-08-14T23:10:31.152+09:00 DEBUG 1812 --- [main] com.example.LoggingRunner                : DEBUG �α� �׽�Ʈ
+2023-08-14T23:10:31.152+09:00  INFO 1812 --- [main] com.example.LoggingRunner                : INFO �α� �׽�Ʈ
+2023-08-14T23:10:31.152+09:00  WARN 1812 --- [main] com.example.LoggingRunner                : WARN �α� �׽�Ʈ
+2023-08-14T23:10:31.152+09:00 ERROR 1812 --- [main] com.example.LoggingRunner                : ERROR �α� �׽�Ʈ
